@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(54, 54, 54);
+    color: black;
+    text-align: center;
+    align-items: center;
+}
+
+/* CSS COMMENT */
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.top-section {
+    background-color: aliceblue;
+}
+
+.bottom-section {
+    background-color: aliceblue;
+}
+
+.intro {
+    font-weight: 700;
+}
+
+.highlight {
+    color: brown;
+    font-style: italic;
+}
+
+/* CSS Box Model */
+
+.box {
+    background-color: brown;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    border-top: dotted 5px black;
+    border-bottom: dotted 5px black;
+    padding: 20px;
+}
